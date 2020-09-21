@@ -223,8 +223,7 @@
   #client_part {
     padding-top: 80px; }
     #client_part .slick-current .slider_item {
-      -webkit-transform: scale(1);
-              transform: scale(1); }
+      transform: scale(1); }
 
   #blog_part {
     padding-top: 80px; }
@@ -350,8 +349,7 @@
   #client_part {
     padding-top: 80px; }
     #client_part .slick-current .slider_item {
-      -webkit-transform: scale(1.1);
-              transform: scale(1.1); }
+      transform: scale(1.1); }
 
   #blog_part {
     padding-top: 80px; }
@@ -460,8 +458,7 @@
       margin-bottom: 30px; }
 
   #client_part .slick-current .slider_item {
-    -webkit-transform: scale(1.1);
-            transform: scale(1.1); }
+    transform: scale(1.1); }
 
   #blog_part .blog_part::before {
     left: -20%; }
